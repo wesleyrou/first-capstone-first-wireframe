@@ -44,7 +44,15 @@ h1 {
 
 code {
   color:red;
-  font-size:20px;
+  font-size:25px;
+}
+
+.user-flows{
+  margin-bottom: 100px;
+}
+
+.user-flows code{
+  font-size:15px;
 }
 
 fieldset {
